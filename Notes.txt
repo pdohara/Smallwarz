@@ -1,0 +1,14 @@
+Nouns for Smallwarz
+
+Games
+  Scenarios
+    Units
+  Maps
+    Locations
+      Terrain
+  Unit Types
+  Rules
+    Movement Rules
+    Combat Rules
+    Line of Sight Rules
+
